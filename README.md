@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the official 2026 flower catalogue for Roseto Group. It provides a comprehensive overview of all flower varieties produced across the group’s four farms, based on planned and actual production for the year.
+This repository contains the official 2026 flower catalogue for Roseto Group (a flower producing industry in the Rift-Valley Region of Kenya). It provides a comprehensive overview of all flower varieties produced across the group’s four farms, based on planned and actual production for the year.
 
 The catalogue was prepared in conjunction with the IfTex Exhibition held in Naivasha in May 2026.
 
